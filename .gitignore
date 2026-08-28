@@ -1,7 +1,0 @@
-# Office / Tableau lock files
-~$*.xlsx
-*.twbx.lock
-
-# OS
-.DS_Store
-Thumbs.db
